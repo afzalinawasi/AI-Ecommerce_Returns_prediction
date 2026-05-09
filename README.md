@@ -123,7 +123,7 @@ Order day of week
 - Risk level: Low / Medium / High
 - Business recommendation based on the Risk level 
 
-**View the app here:** url 
+**To view the app in Streamlit:** [Click here](https://ai-ecommerce-returns-prediction.streamlit.app/) 
 
 ------
 ## Limitations
