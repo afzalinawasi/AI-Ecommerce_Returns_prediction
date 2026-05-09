@@ -104,18 +104,17 @@ So **final model selected was: Random Forest Classifier** as *Random Forest achi
 ## Streamlit App features: 
 
 The Streamlit app allows users to enter order details such as:
-
-Product category
-Region
-Payment method
-Product price
-Quantity
-Delivery days
-Customer rating
-Discount percentage
-Order year
-Order month
-Order day of week
+- Product category
+- Region
+- Payment method
+- Product price
+- Quantity
+- Delivery days
+- Customer rating
+- Discount percentage
+- Order year
+- Order month
+- Order day of week
 
 **The app then displays:**
 - Prediction: Likely to be Returned / Not Likely to be Returned
